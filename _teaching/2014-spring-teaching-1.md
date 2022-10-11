@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Dept. of Aerospace Engineering, Texas A&M University"
-date: Spring 2020
+date: 2020-1-1
 #location: "City, Country"
 ---
 
@@ -16,7 +16,7 @@ collection: teaching
 type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Dept. of Aerospace Engineering, Texas A&M University"
-date: Spring 2021
+date: 2021-1-1
 #location: "City, Country"
 ---
 
