@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 1"
+title: "Instructor of Record"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "Dept. of Aerospace Engineering, Texas A&M University"
+date: Spring 2020
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+AERO 452: Viscous Flows & Heat Transfer
+Navier-Stokes and boundary layer equations; exact and approximate solutions; laminar boundary layers; basic concepts of transition and turbulence; turbulent boundary layers; one and two dimensional heat transfer; methods for steady and transient heat conduction; thermal boundary layers; convection; radiation. 
 
-Heading 1
-======
+title: "Instructor of Record"
+collection: teaching
+type: "Undergraduate course"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "Dept. of Aerospace Engineering, Texas A&M University"
+date: Spring 2021
+#location: "City, Country"
+---
 
-Heading 2
-======
-
-Heading 3
-======
+AERO 452: Viscous Flows & Heat Transfer
+Navier-Stokes and boundary layer equations; exact and approximate solutions; laminar boundary layers; basic concepts of transition and turbulence; turbulent boundary layers; one and two dimensional heat transfer; methods for steady and transient heat conduction; thermal boundary layers; convection; radiation. 
