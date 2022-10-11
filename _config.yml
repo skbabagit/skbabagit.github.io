@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sualeh Khurshid"
   avatar           : "profile.png"
-  bio              : "Computing Innovation Fellow/ Postdoctoral Associate"
+  bio              : "Computing Innovation Fellow/ Postdoctoral Associate at Massachusetts Institute of Technology"
   location         : #"Location"
-  employer         : "Massachusetts Institute of Technology boom boom"
+  employer         : #"Massachusetts Institute of Technology boom boom"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Sj89-s4AAAAJ&hl=en&authuser=0"
   email            :
