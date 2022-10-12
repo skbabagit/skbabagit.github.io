@@ -10,22 +10,22 @@ author_profile: true
 <sup> If you are unable access a paper, please [contact](https://vedang.page/Contact/){:target="_blank"} me for the PDF file. </sup>
 
 ### Journal Papers
- 3. Khurshid S., Donzis D. A. and Sreenivasan K. R. Energy Spectrum in dissipation range. Physical Review Fluids 2018. [Publisher Link](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.082601){:target="_blank"}
+ 1. Khurshid S., Donzis D. A. and Sreenivasan K. R. Energy Spectrum in dissipation range. Physical Review Fluids 2018. [Publisher Link](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.082601){:target="_blank"}
 
- 2. Khurshid S. and Donzis D.A. Decaying compressible turbulence with thermal non-equilibrium. Physics of Fluids 2019. [Publisher Link](https://aip.scitation.org/doi/10.1063/1.5080369){:target="_blank"}
+ 1. Khurshid S. and Donzis D.A. Decaying compressible turbulence with thermal non-equilibrium. Physics of Fluids 2019. [Publisher Link](https://aip.scitation.org/doi/10.1063/1.5080369){:target="_blank"}
 
  1. Khurshid S., Donzis D. A.  and Sreenivasan K.R. Slow spectral transfer and energy cascades in isotropic turbulence. Journal of Fluid Mechanics 2021. [Publisher Link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/slow-spectral-transfer-and-energy-cascades-in-isotropic-turbulence/EF9368676836F53B9A11ADA81D3820AC#access-block){:target="_blank"}
 
 
 ### Journal Papers in preparation/under review
- 4. Khurshid S., Donzis D.A. and others. On the universality of transition to anomalous scaling in strong turbulence (In preparation). 
+ 1. Khurshid S., Donzis D.A. and others. On the universality of transition to anomalous scaling in strong turbulence (In preparation). 
 
- 5. Khurshid S., Donzis D. A and others. Emergence of turbulence behavior (In preparation).
+ 1. Khurshid S., Donzis D. A and others. Emergence of turbulence behavior (In preparation).
 
- 6. Khurshid S., Donzis D.A. Intermittency and bottleneck effect in isotropic turbulence (In preparation).
+ 1. Khurshid S., Donzis D.A. Intermittency and bottleneck effect in isotropic turbulence (In preparation).
     
 ### Peer-Reviewed Conference Proceeding
-1. 10. Khurshid S. and Donzis D.A. Emergence of intermittency and asymptotic states in solenoidally forced compressible turbulence. International Congress of Theoretical and Applied Mechanics 2020+1, Milano Italy.
+1. Khurshid S. and Donzis D.A. Emergence of intermittency and asymptotic states in solenoidally forced compressible turbulence. International Congress of Theoretical and Applied Mechanics 2020+1, Milano Italy.
 
 
 ### Conference Abstracts/Talks
