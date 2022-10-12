@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Teaching Experience
-1.  Instructor of Record, AERO 452: Viscous Flows & Heat Transfer, Dept. of Aerospace Engineering, Texas A&M University, Spring 2020, Spring 2021
+1.  Instructor of Record, AERO 452: Viscous Flows & Heat Transfer, Dept. of Aerospace Engineering, Texas A&M University, Spring 2020, Spring 2021\p
 Navier-Stokes and boundary layer equations; exact and approximate solutions; laminar boundary layers; 
 basic concepts of transition and turbulence; turbulent boundary layers; one and two dimensional heat transfer; 
 methods for steady and transient heat conduction; thermal boundary layers; convection; radiation.
