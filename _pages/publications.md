@@ -41,12 +41,12 @@ author_profile: true
 2. Khurshid S. and Donzis D.A. Fundamental studies of decaying turbulent flows with thermal non- equilibrium using direct numerical simulation. Texas A&M Turbulence Symposium 2015, College Station, Texas USA, April 2015.
 1. Khurshid S. and Donzis D.A. The effect of thermal non-equilibrium in decaying turbulence using direct numerical simulations. 67th Annual Meeting of the American Physical Society Division of Fluid Dynamics, San Francisco, California USA, November 2014. [Meeting Webpage](http://meetings.aps.org/Meeting/DFD14/Session/E28.6){:target="_blank"}
     
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}#
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}#
 
-#{% include base_path %}
+{% include base_path %}
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
