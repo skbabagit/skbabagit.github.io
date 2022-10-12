@@ -1,9 +1,8 @@
 ---
 layout: archive
-classes: wide
-author_profile: # true
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
 ### Teaching Experience
