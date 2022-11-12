@@ -26,7 +26,7 @@ author_profile: true
  
  1. Khurshid, S., Kumari, K., Donzis, D.A. Temporal schemes in highly resolved direct numerical simulations (In preparation).
 
- #1. Khurshid S., Donzis D.A. Intermittency and bottleneck effect in isotropic turbulence (In preparation).
+ 1. Khurshid S., Donzis D.A. Intermittency and bottleneck effect in isotropic turbulence (In preparation).
     
 ### Peer-Reviewed Conference Proceeding
 1. Khurshid S. and Donzis D.A. Emergence of intermittency and asymptotic states in solenoidally forced compressible turbulence. International Congress of Theoretical and Applied Mechanics 2020+1, Milano Italy.
