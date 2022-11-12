@@ -20,9 +20,13 @@ author_profile: true
 ### Journal Papers in preparation/under review
  1. Khurshid S., Donzis D.A. and others. Emergence of universal scaling in isotropic turbulence (Under Review). 
 
- 1. Khurshid S., Donzis D. A and others. Emergence of turbulence behavior (In preparation).
+ 1. Khurshid S., Donzis D. A. Emergence of anomalous scaling in compressible turbulence (In preparation).
+ 
+ 1. Khurshid,S. High order inertial range scaling exponents using generalized extended self- similarity (In preparation).
+ 
+ 1. Khurshid, S., Kumari, K., Donzis, D.A. Temporal schemes in highly resolved direct numerical simulations (In preparation).
 
- 1. Khurshid S., Donzis D.A. Intermittency and bottleneck effect in isotropic turbulence (In preparation).
+ #1. Khurshid S., Donzis D.A. Intermittency and bottleneck effect in isotropic turbulence (In preparation).
     
 ### Peer-Reviewed Conference Proceeding
 1. Khurshid S. and Donzis D.A. Emergence of intermittency and asymptotic states in solenoidally forced compressible turbulence. International Congress of Theoretical and Applied Mechanics 2020+1, Milano Italy.
