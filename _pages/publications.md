@@ -18,7 +18,7 @@ author_profile: true
 
 
 ### Journal Papers in preparation/under review
- 1. Khurshid S., Donzis D.A. and others. On the universality of transition to anomalous scaling in strong turbulence (In preparation). 
+ 1. Khurshid S., Donzis D.A. and others. Emergence of universal scaling in isotropic turbulence (Under Review). 
 
  1. Khurshid S., Donzis D. A and others. Emergence of turbulence behavior (In preparation).
 
