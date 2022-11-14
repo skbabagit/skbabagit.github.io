@@ -18,7 +18,7 @@ author_profile: true
 
 
 ### Journal Papers in preparation/under review
- 1. Khurshid S., Donzis D.A. and others. Emergence of universal scaling in isotropic turbulence (Under Review). 
+ 1. Khurshid S., Donzis D.A. and others. Emergence of universal scaling in isotropic turbulence (Under Review) [arXiv](https://arxiv.org/abs/2211.06307){:target="_blank"} . 
 
  1. Khurshid S., Donzis D. A. Emergence of anomalous scaling in compressible turbulence (In preparation).
  
