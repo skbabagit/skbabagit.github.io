@@ -13,9 +13,10 @@ Full CV available on request.
 
 Education
 ======
-* B.S. Aerospace Engineering, Texas A&M University University, 2016
+Texas A&M University
+* B.S. Aerospace Engineering, 2016
 * B.A. Physics, Texas A&M University, 2016
 * M.Eng. Aerospace Engineering, 2020
-* Ph.D Aerospace Engineering, Texas A&M University, 2021
+* Ph.D Aerospace Engineering, 2021
 
 
