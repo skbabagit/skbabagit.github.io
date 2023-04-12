@@ -16,9 +16,9 @@ author_profile: true
 
  1. Khurshid S., Donzis D. A.  and Sreenivasan K.R. Slow spectral transfer and energy cascades in isotropic turbulence. Journal of Fluid Mechanics 2021. [Publisher Link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/slow-spectral-transfer-and-energy-cascades-in-isotropic-turbulence/EF9368676836F53B9A11ADA81D3820AC#access-block){:target="_blank"}
 
+ 1. Khurshid S., Donzis D.A. and Sreenivasan, K.R.. Emergence of universal scaling in isotropic turbulence Physical Review E 2023 .[arXiv](https://arxiv.org/abs/2211.06307){:target="_blank"}. [Publisher Link](https://aip.scitation.org/doi/10.1063/1.5080369](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.045102#fulltext){:target="_blank"} 
 
 ### Journal Papers in preparation/under review
- 1. Khurshid S., Donzis D.A. and others. Emergence of universal scaling in isotropic turbulence (Under Review) [arXiv](https://arxiv.org/abs/2211.06307){:target="_blank"} . 
 
  1. Khurshid S., Donzis D. A. Emergence of anomalous scaling in compressible turbulence (In preparation).
  
